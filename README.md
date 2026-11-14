@@ -3,7 +3,7 @@
 
 A dual-compartment smart dustbin built on an ESP8266 (NodeMCU). Each compartment has an IR sensor that detects a hand or object and automatically opens the lid with a servo, and an ultrasonic sensor that measures how full the bin is. Fill levels are sent live to the Blynk IoT app.
 
-## Features
+##  Features
 
 - **Touchless lids:** IR sensors trigger the servos to open each lid for 5 seconds, then close it.
 - **Fill-level monitoring:** Ultrasonic sensors measure the distance to the waste and convert it to a 0-100% fill level.
